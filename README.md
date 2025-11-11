@@ -1,4 +1,4 @@
-# Wellington Juma - Portfolio
+# Wellington Obiero - Portfolio
 
 Professional portfolio website showcasing my work in AI, Cybersecurity, and Full-Stack Development.
 
@@ -27,13 +27,13 @@ portfolio/
 
 ## 🌐 Live Demo
 
-Visit: [your-domain.pages.dev](https://your-domain.pages.dev)
+Visit: [your-domain.pages.dev](https://wellingtone-portfolio.pages.dev)
 
 ## 📞 Contact
 
 - **Email:** wellingtonejuma7994@example.com
-- **LinkedIn:** [Wellington Juma](https://linkedin.com/in/wellington-juma-211538398)
-- **Portfolio:** [Live Website](https://your-domain.pages.dev)
+- **LinkedIn:** [Wellington Juma](https://linkedin.com/in/wellington-obiero-211538398)
+- **Portfolio:** [Live Website](https://wellingtone-portfolio.pages.dev)
 
 ## 📄 License
 
